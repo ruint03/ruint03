@@ -17,22 +17,6 @@
 
 ---
 
-## 👋 About Me
-
-```ts
-const me: Developer = {
-  role: "Frontend Developer",
-  stack: ["React", "Next.js", "TypeScript"],
-  currentlyLearning: "더 나은 사용자 경험과 성능 최적화",
-  motto: "코드는 사람이 읽기 위해 쓴다",
-};
-```
-
-- 🌱 사용자 경험을 고민하는 프론트엔드 개발자입니다.
-- 🛠️ 작은 디테일이 만드는 완성도를 중요하게 생각합니다.
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
