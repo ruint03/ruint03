@@ -8,7 +8,7 @@
 
 # Hi, I'm ruint03 👋
 
-#### Frontend Developer · 사용자 경험과 디테일을 고민합니다.
+#### Frontend Developer
 
 ![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/Vue-grey?style=flat&logo=vue.js)
